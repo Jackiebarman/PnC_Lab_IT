@@ -1,0 +1,12 @@
+Enter the values of r, m and n:2 4 4
+
+Intermediate Results: 
+Value of sum:24
+
+Value of c:0.0416667
+Value for x:0 is not possible, invalid combination
+Value for x:1 is not possible, invalid combination
+Value for x:2 =>0.25
+Value for x:3 =>0.5
+Value for x:4 =>0.25
+

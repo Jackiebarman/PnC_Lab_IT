@@ -1,0 +1,8 @@
+
+Intermediate Results
+Value of sum:0
+Value of c:inf
+Value for x is not possible, invalid combination
+Value for x is not possible, invalid combination
+Value for x is not possible, invalid combination
+Value for x is not possible, invalid combination

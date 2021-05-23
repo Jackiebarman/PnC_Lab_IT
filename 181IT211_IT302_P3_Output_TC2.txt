@@ -1,0 +1,11 @@
+Enter the values of r, m and n:3 3 3
+
+Intermediate Results: 
+Value of sum:1
+
+Value of c:1
+Value for x:0 is not possible, invalid combination
+Value for x:1 is not possible, invalid combination
+Value for x:2 is not possible, invalid combination
+Value for x:3 =>1
+

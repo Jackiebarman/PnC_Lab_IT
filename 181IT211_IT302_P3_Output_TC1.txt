@@ -1,0 +1,10 @@
+
+Intermediate Results
+Value of sum:140
+Value of c:0.00714286
+Value for x is not possible, invalid combination
+Value for x is not possible, invalid combination
+Value for x is not possible, invalid combination
+Value for x is not possible, invalid combination
+Value for x:4 =>0.25
+Value for x:5 =>0.75
